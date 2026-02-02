@@ -1,0 +1,19 @@
+## 💾 Data
+
+Data not included in repository due to size. Download from:
+https://data.cms.gov/provider-data/dataset/6jpm-sxkc
+
+# Data files
+*.csv
+cms_data.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
